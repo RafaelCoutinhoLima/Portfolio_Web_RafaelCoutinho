@@ -1,3 +1,9 @@
 document.getElementById("voltar").addEventListener('click',function(){
   window.location.href="index.html"
 })
+document.getElementById("git").addEventListener('click',function(){
+  window.open("https://github.com/RafaelCoutinhoLima/ARDUINO_projeto","_blank");
+})
+document.getElementById("conhecer").addEventListener('click',function(){
+  window.location.href="sobre.html"
+})
