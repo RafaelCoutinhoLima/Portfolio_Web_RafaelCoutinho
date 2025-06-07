@@ -1,0 +1,70 @@
+h1 {
+    color:#000000
+}
+p{
+    color:blanchedalmond
+}
+body{
+background-color: rgb(108, 122, 136);   
+}
+a{
+    color: black;
+}
+.foto1{
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin:20px auto
+}
+.grupo{
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto;
+
+}
+#voltar {
+    display: block;
+    width: 150px;
+    padding: 15px;
+    background-color: #273845;
+    color: #d7d7d7;
+    font-size: 1em;
+    border: none;
+    border-radius: 15px;
+    margin: 10px auto;
+}
+#meconheça {
+    display: block;
+    width: 150px;
+    padding: 15px;
+    background-color: #273845;
+    color: #d7d7d7;
+    font-size: 1em;
+    border: none;
+    border-radius: 15px;
+    margin: 10px auto;
+}
+#git{
+display: block;
+width: 150px;
+padding: 15px;
+background-color: #273845;
+color: #d7d7d7;
+font-size: 1.3rem;
+border: none;
+border-radius: 15px;
+margin: 10px auto;
+}
+.fotopessoal{
+    width: 500px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin: 20px auto
+}
+figcaption{
+
+}
